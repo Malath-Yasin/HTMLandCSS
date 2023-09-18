@@ -1,0 +1,41 @@
+body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+h3{
+    font-family: sans-serif;
+}
+td{
+    border: 1px solid black;
+    box-shadow: 2px 3px 5px rgb(63, 63, 63) ;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding-inline: 10px;
+    padding-block: 8px;
+   
+
+}
+table{
+    border-spacing: 10px;
+}
+.floating{
+    background-color: rgb(233, 233, 233);
+    position:absolute;
+    overflow: hidden; 
+     height: 100PX;
+   
+  
+}
+
+.ScrollArticle{
+    overflow: auto; 
+    height: 55px; 
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    font-weight: bold; 
+    position: absolute;
+    margin-top: 130PX;
+}
